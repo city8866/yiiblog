@@ -3,5 +3,4 @@ assets/*
 protected/runtime/*
 !protected/runtime/.gitignore
 protected/data/*.db
-common/config/*
 themes/classic/views/
